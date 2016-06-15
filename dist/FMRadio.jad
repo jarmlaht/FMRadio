@@ -1,0 +1,8 @@
+MIDlet-1: FMRadio,/fm-radio-icon-50.png,com.nokia.example.ammstuner.FMRadio
+MIDlet-Jar-Size: 57013
+MIDlet-Jar-URL: FMRadio.jar
+MIDlet-Name: FM Radio
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
